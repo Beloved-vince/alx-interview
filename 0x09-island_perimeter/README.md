@@ -1,3 +1,1 @@
-# 0x09. Island Perimeter
-Algorithm
-Python
+# 0x09-island_perimeter

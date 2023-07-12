@@ -1,2 +1,1 @@
-# 0x02. Minimum Operations
-`Algorithm, Python`
+# 0x02-minimum_operations

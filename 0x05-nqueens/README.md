@@ -1,1 +1,1 @@
-# Alx interview question practice
+# 0x05-nqueens

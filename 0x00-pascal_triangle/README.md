@@ -1,1 +1,1 @@
-# Interview practices
+# The pascals triangle in python.
